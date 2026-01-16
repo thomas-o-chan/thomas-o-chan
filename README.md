@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomas-o-chan
 - 👀 I’m interested in learning and building new and fun things, tidying up complex code and adding complete and clear documentation to things.
-- 🌱 I’m currently learning to use websockets and various WebRTC features.
+- 🌱 I’m currently learning deeper fundamentals of software architecture.
 - 💞️ I’m looking to collaborate on pretty much anything web-based.
 - 📫 Reach me by email thomas.chan.ac@gmail.com
